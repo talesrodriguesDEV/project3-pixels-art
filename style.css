@@ -1,0 +1,68 @@
+/* Requisito 2 */
+.color {
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    background-color: white;
+}
+
+/* Requisito 3 */
+#black {
+    background-color: black;
+    margin-right: 0;
+}
+/* #red {
+    background-color: red;
+}
+#blue {
+    background-color: blue;
+}
+#green {
+    background-color: green;
+}
+#yellow {
+    background-color: yellow;
+} */ 
+
+/* Requisito 5 */
+.pixel {
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+/* Requisito 9 */
+#clear-board {
+    display: block;
+    margin-left: 48.5%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+body  {
+    text-align: center;
+    background-color: gold;
+}
+
+.linha {
+    height: 40px;
+}
+
+#container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    color: brown;
+}
+
+input {
+    width: 40px;
+}
+
+label {
+    color: brown;
+}
